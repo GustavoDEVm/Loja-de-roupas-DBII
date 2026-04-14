@@ -1,5 +1,4 @@
 # Loja-de-roupas-DBII
-Banco de dados da loja de roupa
 
 📦 Projeto 1 – Modelo de Dados E-Commerce (Loja de Roupas)
 👥 Equipe
