@@ -2,10 +2,14 @@
 
 ## 👥 Equipe
 
-* Nome do aluno 1
-* Nome do aluno 2
+* Emili Vieira Tabuti
+* Gustavo Macedo Costa 
 
 ---
+⚙️ Tecnologias Utilizadas
+MySQL
+MySQL Workbench
+SQL
 
 ## 📌 1. Sumário Executivo
 
@@ -192,10 +196,3 @@ O projeto foi desenvolvido seguindo boas práticas de modelagem, garantindo:
 * Facilidade de manutenção
 * Suporte a consultas de negócio
 
----
-
-## 🚀 10. Entrega
-
-O projeto deve ser disponibilizado em um repositório no GitHub, contendo todos os artefatos solicitados, conforme orientação da disciplina.
-
----
